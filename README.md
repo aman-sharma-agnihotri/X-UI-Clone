@@ -14,7 +14,7 @@ This project was a great opportunity to dive deeper into Tailwind CSS and explor
 > Legal action may be taken in case of unauthorized use.
 
 ## Live Demo
-[Click Here](https://.vercel.app)
+[Click Here](https://x-ui-clone-kohl.vercel.app/)
 
 ## License
 See the [LICENSE](./LICENSE) file for more details.
